@@ -1,0 +1,126 @@
+* {
+    margin: 0px;
+    font-family: 'inter';
+    
+    
+}
+
+#menuSuperior {
+    
+    width: 1420px;   
+    height: 475px;
+    background-color: #303030;
+     
+    
+}
+
+#tituloSuperior {
+    padding-left: 62px;
+    padding-top: 206px;
+    font-size: 60px;
+    color: #FFFFFF;
+}
+
+#paragrafoSuperior {
+    padding-top: 25px;
+    padding-left: 62px;
+    font-size: 28px;
+    color: #FFFFFF;
+}
+
+#menuinformacional {
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.textoInformativo {
+    display: flex;
+    align-items: center;
+    width: 292px;
+    height: 66.18px;
+    margin-top: 54px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+    font-weight: bolder;
+    font-size: 28px;
+
+}
+
+#infEmpreendimento {
+    margin-top: 100px;
+    margin-left: -310px;
+    font-size: 14px;
+}
+
+#infMercado {
+    margin-top: 100px;
+    margin-left: -310px;
+    font-size: 14px;
+}
+
+#infProjetos {
+    margin-top: 100px;
+    margin-left: -310px;
+    font-size: 14px;
+}
+
+#secaoPrincipal {
+    width: 735px;
+    height: 161px;
+    margin-top: 300px;
+    margin-left: 80px;
+    font-size: 32px;
+}
+
+#textoPrincipal {
+    font-size: 16px;
+}
+
+#imagemPrincipal {
+    margin: -400px 25px 50px 650px;
+}
+
+#formulario {
+    width: 1420px;   
+    height: 638px;
+    margin-top: 300px;
+    background-color: #303030;
+     
+}
+#formulario {
+    text-align: center;
+}
+
+#tituloFormulario {
+    padding-top: 60px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-size: 32px;
+    color: #FFFFFF
+}
+
+input {
+    width: 300px;
+    height: 40px;
+    background-color: #FFFFFF;
+    margin: 20px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+button {
+     background-color: #C07212;
+    width: 200px;
+    height: 50px;
+    color: #FFFFFF;
+    font-size: 20px;
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: bolder;
+    cursor: pointer;
+}
